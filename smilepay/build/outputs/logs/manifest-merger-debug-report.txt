@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:8:5-22:19
+	android:supportsRtl
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:9:9-38
+activity#com.zoloz.smilepay.demo.MainActivity
+ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml:16:19-47
+uses-sdk
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		ADDED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml
+		INJECTED from /Users/android/Downloads/TestSmilePayDemo/smilepay/AndroidManifest.xml

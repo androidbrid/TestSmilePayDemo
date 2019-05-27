@@ -1,0 +1,4 @@
+#Fri May 17 11:52:45 CST 2019
+base.0=/Users/android/Downloads/smiledemo/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/android/Downloads/TestSmilePayDemo/smilepay/libs"><file name="SmileService1.9.1.jar" path="/Users/android/Downloads/TestSmilePayDemo/smilepay/libs/SmileService1.9.1.jar"/><file name="fastjson-1.1.45.jar" path="/Users/android/Downloads/TestSmilePayDemo/smilepay/libs/fastjson-1.1.45.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/android/Downloads/TestSmilePayDemo/smilepay/src/debug/jniLibs"/></dataSet></merger>

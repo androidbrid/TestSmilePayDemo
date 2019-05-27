@@ -1,0 +1,40 @@
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='452239676@qq.com'
+android {
+    compileSdkVersion 26
+    defaultConfig {
+//        applicationId "zoloz.phone.android.alipay.com.smilepay.demo"
+        minSdkVersion 18
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main.manifest.srcFile 'AndroidManifest.xml'
+        main.java.srcDirs = ['src']
+        main.res.srcDirs = ['res']
+        main.jniLibs.srcDirs = ['libs']
+    }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+
+    implementation 'org.greenrobot:eventbus:3.0.0'
+}
